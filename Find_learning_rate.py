@@ -1,6 +1,6 @@
-Here i am just show the code how to find out learning rate
+#Here I am just show the code how to find out learning rate
 
-First you run this code to get peformannce on different learning rate
+#First you run this code to get peformannce on different learning rate
 
 from keras.optimizers import Adam
 # Set the learning rate scheduler
